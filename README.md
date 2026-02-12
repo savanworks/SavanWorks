@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'M Savan 👋
 
 # 💫 About Me:
 🔭 I’m currently working on My own Ai Project <br>👯 I’m looking for AEO role<br>🌱 I’m currently learning MERN Stack, .NET, C/C++, C# with strong fundamentals in DSA, OOPS, DBMS, OS and SQL.<br>💬 Ask me about Web Development Related <br>📫 How to reach me: Savan-Solnaki <br> 😀 Pronouns: He/His <br>⚡ Fun fact : If i am not coding then i am probably playing games with my friends
